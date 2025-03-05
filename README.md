@@ -1,6 +1,6 @@
 # 使用 pip 搭配代理
 
-[![推广横幅](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
+[![推广横幅](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
 
 本指南将向您说明如何在 pip 中设置代理，从而绕过网络限制、提升安全性并简化包管理流程：
 
